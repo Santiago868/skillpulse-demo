@@ -1,5 +1,12 @@
 {
   "username": "csw",
-  "generatedAt": 1784226990986,
-  "skills": []
+  "generatedAt": 1784230923650,
+  "skills": [
+    {
+      "name": "caveman",
+      "count": 1,
+      "lastUsed": 1784230390112,
+      "installs": 0
+    }
+  ]
 }
