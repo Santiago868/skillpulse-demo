@@ -1,11 +1,17 @@
 {
   "username": "csw",
-  "generatedAt": 1784230923650,
+  "generatedAt": 1784299587894,
   "skills": [
     {
       "name": "caveman",
       "count": 1,
       "lastUsed": 1784230390112,
+      "installs": 0
+    },
+    {
+      "name": "context7-mcp",
+      "count": 1,
+      "lastUsed": 1784299587702,
       "installs": 0
     }
   ]
