@@ -1,6 +1,6 @@
 {
   "username": "csw",
-  "generatedAt": 1784299587894,
+  "generatedAt": 1785203798721,
   "skills": [
     {
       "name": "caveman",
@@ -12,6 +12,24 @@
       "name": "context7-mcp",
       "count": 1,
       "lastUsed": 1784299587702,
+      "installs": 0
+    },
+    {
+      "name": "domain-modeling",
+      "count": 1,
+      "lastUsed": 1784339681773,
+      "installs": 0
+    },
+    {
+      "name": "grilling",
+      "count": 1,
+      "lastUsed": 1784339677540,
+      "installs": 0
+    },
+    {
+      "name": "writing-great-skills",
+      "count": 1,
+      "lastUsed": 1785203798493,
       "installs": 0
     }
   ]
