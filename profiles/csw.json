@@ -1,6 +1,6 @@
 {
   "username": "csw",
-  "generatedAt": 1785203798721,
+  "generatedAt": 1785469603607,
   "skills": [
     {
       "name": "caveman",
@@ -24,6 +24,18 @@
       "name": "grilling",
       "count": 1,
       "lastUsed": 1784339677540,
+      "installs": 0
+    },
+    {
+      "name": "make-teammate",
+      "count": 1,
+      "lastUsed": 1785358106996,
+      "installs": 0
+    },
+    {
+      "name": "superpowers:systematic-debugging",
+      "count": 1,
+      "lastUsed": 1785469603404,
       "installs": 0
     },
     {
