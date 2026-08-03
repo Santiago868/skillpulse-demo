@@ -1,6 +1,12 @@
 {
   "version": 1,
   "skills": {
+    "docs-audit": {
+      "name": "docs-audit",
+      "source": "https://github.com/evolvco/evolv-dataflow.git",
+      "contentHash": "45b59a587ab079cc46c09e817258b08824da862264416d609f1a015c73de8a3b",
+      "updatedAt": 1785768350430
+    },
     "execution-context-grill": {
       "name": "execution-context-grill",
       "source": "https://github.com/evolvco/create-evolve-internal.git",

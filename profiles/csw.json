@@ -1,6 +1,6 @@
 {
   "username": "csw",
-  "generatedAt": 1785469603607,
+  "generatedAt": 1785768350430,
   "skills": [
     {
       "name": "caveman",
@@ -36,6 +36,12 @@
       "name": "superpowers:systematic-debugging",
       "count": 1,
       "lastUsed": 1785469603404,
+      "installs": 0
+    },
+    {
+      "name": "superpowers:writing-plans",
+      "count": 1,
+      "lastUsed": 1785768350232,
       "installs": 0
     },
     {
