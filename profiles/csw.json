@@ -1,6 +1,6 @@
 {
   "username": "csw",
-  "generatedAt": 1785768350430,
+  "generatedAt": 1785867767887,
   "skills": [
     {
       "name": "caveman",
@@ -12,6 +12,12 @@
       "name": "context7-mcp",
       "count": 1,
       "lastUsed": 1784299587702,
+      "installs": 0
+    },
+    {
+      "name": "dataviz",
+      "count": 1,
+      "lastUsed": 1785867767695,
       "installs": 0
     },
     {
@@ -30,6 +36,12 @@
       "name": "make-teammate",
       "count": 1,
       "lastUsed": 1785358106996,
+      "installs": 0
+    },
+    {
+      "name": "superpowers:subagent-driven-development",
+      "count": 1,
+      "lastUsed": 1785768985993,
       "installs": 0
     },
     {
