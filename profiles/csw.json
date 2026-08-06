@@ -1,7 +1,13 @@
 {
   "username": "csw",
-  "generatedAt": 1785867767887,
+  "generatedAt": 1785977366693,
   "skills": [
+    {
+      "name": "grilling",
+      "count": 2,
+      "lastUsed": 1785977366477,
+      "installs": 0
+    },
     {
       "name": "caveman",
       "count": 1,
@@ -24,12 +30,6 @@
       "name": "domain-modeling",
       "count": 1,
       "lastUsed": 1784339681773,
-      "installs": 0
-    },
-    {
-      "name": "grilling",
-      "count": 1,
-      "lastUsed": 1784339677540,
       "installs": 0
     },
     {
