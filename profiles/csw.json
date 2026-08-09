@@ -1,7 +1,13 @@
 {
   "username": "csw",
-  "generatedAt": 1786117200340,
+  "generatedAt": 1786307083895,
   "skills": [
+    {
+      "name": "grilling",
+      "count": 3,
+      "lastUsed": 1786307083706,
+      "installs": 0
+    },
     {
       "name": "domain-modeling",
       "count": 2,
@@ -9,9 +15,9 @@
       "installs": 0
     },
     {
-      "name": "grilling",
+      "name": "make-teammate",
       "count": 2,
-      "lastUsed": 1785977366477,
+      "lastUsed": 1786118771229,
       "installs": 0
     },
     {
@@ -36,12 +42,6 @@
       "name": "evo-microapp-onboarding",
       "count": 1,
       "lastUsed": 1786117200100,
-      "installs": 0
-    },
-    {
-      "name": "make-teammate",
-      "count": 1,
-      "lastUsed": 1785358106996,
       "installs": 0
     },
     {
