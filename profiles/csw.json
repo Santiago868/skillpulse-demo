@@ -1,6 +1,6 @@
 {
   "username": "csw",
-  "generatedAt": 1786584353290,
+  "generatedAt": 1787148517503,
   "skills": [
     {
       "name": "domain-modeling",
@@ -12,6 +12,24 @@
       "name": "grilling",
       "count": 3,
       "lastUsed": 1786307083706,
+      "installs": 0
+    },
+    {
+      "name": "superpowers:subagent-driven-development",
+      "count": 3,
+      "lastUsed": 1787148517281,
+      "installs": 0
+    },
+    {
+      "name": "superpowers:writing-plans",
+      "count": 3,
+      "lastUsed": 1786639227475,
+      "installs": 0
+    },
+    {
+      "name": "evo-microapp-onboarding",
+      "count": 2,
+      "lastUsed": 1786638100340,
       "installs": 0
     },
     {
@@ -39,12 +57,6 @@
       "installs": 0
     },
     {
-      "name": "evo-microapp-onboarding",
-      "count": 1,
-      "lastUsed": 1786117200100,
-      "installs": 0
-    },
-    {
       "name": "execution-to-issues",
       "count": 1,
       "lastUsed": 1786311646067,
@@ -57,21 +69,15 @@
       "installs": 0
     },
     {
-      "name": "superpowers:subagent-driven-development",
+      "name": "superpowers:receiving-code-review",
       "count": 1,
-      "lastUsed": 1785768985993,
+      "lastUsed": 1786639227585,
       "installs": 0
     },
     {
       "name": "superpowers:systematic-debugging",
       "count": 1,
       "lastUsed": 1785469603404,
-      "installs": 0
-    },
-    {
-      "name": "superpowers:writing-plans",
-      "count": 1,
-      "lastUsed": 1785768350232,
       "installs": 0
     },
     {
