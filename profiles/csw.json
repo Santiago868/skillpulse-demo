@@ -1,6 +1,6 @@
 {
   "username": "csw",
-  "generatedAt": 1787148517503,
+  "generatedAt": 1787604637571,
   "skills": [
     {
       "name": "domain-modeling",
@@ -51,9 +51,27 @@
       "installs": 0
     },
     {
+      "name": "customize-opencode",
+      "count": 1,
+      "lastUsed": 1787156341504,
+      "installs": 0
+    },
+    {
       "name": "dataviz",
       "count": 1,
       "lastUsed": 1785867767695,
+      "installs": 0
+    },
+    {
+      "name": "debugging-dataflow-workflows",
+      "count": 1,
+      "lastUsed": 1787604637378,
+      "installs": 0
+    },
+    {
+      "name": "diagnosing-bugs",
+      "count": 1,
+      "lastUsed": 1787155158603,
       "installs": 0
     },
     {

@@ -1,6 +1,12 @@
 {
   "version": 1,
   "skills": {
+    "debugging-dataflow-workflows": {
+      "name": "debugging-dataflow-workflows",
+      "source": "https://github.com/evolvco/evolv-dataflow-demos.git",
+      "contentHash": "9e36bbcf9945abff2b062c34730b649cf3f5dafb467c86ede81519f674c5067d",
+      "updatedAt": 1787604637571
+    },
     "docs-audit": {
       "name": "docs-audit",
       "source": "https://github.com/evolvco/evolv-dataflow.git",
