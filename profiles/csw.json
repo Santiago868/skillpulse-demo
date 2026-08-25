@@ -1,7 +1,13 @@
 {
   "username": "csw",
-  "generatedAt": 1787604637571,
+  "generatedAt": 1787696636118,
   "skills": [
+    {
+      "name": "debugging-dataflow-workflows",
+      "count": 5,
+      "lastUsed": 1787696635906,
+      "installs": 0
+    },
     {
       "name": "domain-modeling",
       "count": 3,
@@ -39,6 +45,12 @@
       "installs": 0
     },
     {
+      "name": "superpowers:systematic-debugging",
+      "count": 2,
+      "lastUsed": 1787608099156,
+      "installs": 0
+    },
+    {
       "name": "caveman",
       "count": 1,
       "lastUsed": 1784230390112,
@@ -60,12 +72,6 @@
       "name": "dataviz",
       "count": 1,
       "lastUsed": 1785867767695,
-      "installs": 0
-    },
-    {
-      "name": "debugging-dataflow-workflows",
-      "count": 1,
-      "lastUsed": 1787604637378,
       "installs": 0
     },
     {
@@ -93,9 +99,9 @@
       "installs": 0
     },
     {
-      "name": "superpowers:systematic-debugging",
+      "name": "test-driven-development",
       "count": 1,
-      "lastUsed": 1785469603404,
+      "lastUsed": 1787696635906,
       "installs": 0
     },
     {
