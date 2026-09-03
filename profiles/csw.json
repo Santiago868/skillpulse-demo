@@ -1,11 +1,11 @@
 {
   "username": "csw",
-  "generatedAt": 1787696636118,
+  "generatedAt": 1788454843464,
   "skills": [
     {
       "name": "debugging-dataflow-workflows",
-      "count": 5,
-      "lastUsed": 1787696635906,
+      "count": 11,
+      "lastUsed": 1787696828067,
       "installs": 0
     },
     {
@@ -33,6 +33,12 @@
       "installs": 0
     },
     {
+      "name": "context7-mcp",
+      "count": 2,
+      "lastUsed": 1788454843241,
+      "installs": 0
+    },
+    {
       "name": "evo-microapp-onboarding",
       "count": 2,
       "lastUsed": 1786638100340,
@@ -54,12 +60,6 @@
       "name": "caveman",
       "count": 1,
       "lastUsed": 1784230390112,
-      "installs": 0
-    },
-    {
-      "name": "context7-mcp",
-      "count": 1,
-      "lastUsed": 1784299587702,
       "installs": 0
     },
     {
@@ -108,6 +108,12 @@
       "name": "writing-great-skills",
       "count": 1,
       "lastUsed": 1785203798493,
+      "installs": 0
+    },
+    {
+      "name": "writing-skills",
+      "count": 1,
+      "lastUsed": 1787696642939,
       "installs": 0
     }
   ]
