@@ -1,11 +1,17 @@
 {
   "username": "csw",
-  "generatedAt": 1788454843464,
+  "generatedAt": 1788550801242,
   "skills": [
     {
       "name": "debugging-dataflow-workflows",
-      "count": 11,
-      "lastUsed": 1787696828067,
+      "count": 14,
+      "lastUsed": 1788550801051,
+      "installs": 0
+    },
+    {
+      "name": "context7-mcp",
+      "count": 3,
+      "lastUsed": 1788550801051,
       "installs": 0
     },
     {
@@ -33,12 +39,6 @@
       "installs": 0
     },
     {
-      "name": "context7-mcp",
-      "count": 2,
-      "lastUsed": 1788454843241,
-      "installs": 0
-    },
-    {
       "name": "evo-microapp-onboarding",
       "count": 2,
       "lastUsed": 1786638100340,
@@ -60,6 +60,12 @@
       "name": "caveman",
       "count": 1,
       "lastUsed": 1784230390112,
+      "installs": 0
+    },
+    {
+      "name": "codebase-design",
+      "count": 1,
+      "lastUsed": 1788477270818,
       "installs": 0
     },
     {
@@ -87,6 +93,12 @@
       "installs": 0
     },
     {
+      "name": "improve-codebase-architecture",
+      "count": 1,
+      "lastUsed": 1788477486001,
+      "installs": 0
+    },
+    {
       "name": "superpowers:brainstorming",
       "count": 1,
       "lastUsed": 1786584353068,
@@ -102,6 +114,12 @@
       "name": "test-driven-development",
       "count": 1,
       "lastUsed": 1787696635906,
+      "installs": 0
+    },
+    {
+      "name": "using-superpowers",
+      "count": 1,
+      "lastUsed": 1788540570251,
       "installs": 0
     },
     {
