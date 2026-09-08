@@ -1,11 +1,11 @@
 {
   "username": "csw",
-  "generatedAt": 1788550801242,
+  "generatedAt": 1788878699622,
   "skills": [
     {
       "name": "debugging-dataflow-workflows",
-      "count": 14,
-      "lastUsed": 1788550801051,
+      "count": 15,
+      "lastUsed": 1788878700433,
       "installs": 0
     },
     {
@@ -54,6 +54,18 @@
       "name": "superpowers:systematic-debugging",
       "count": 2,
       "lastUsed": 1787608099156,
+      "installs": 0
+    },
+    {
+      "name": "using-superpowers",
+      "count": 2,
+      "lastUsed": 1788878699419,
+      "installs": 0
+    },
+    {
+      "name": "brainstorming",
+      "count": 1,
+      "lastUsed": 1788878699494,
       "installs": 0
     },
     {
@@ -114,12 +126,6 @@
       "name": "test-driven-development",
       "count": 1,
       "lastUsed": 1787696635906,
-      "installs": 0
-    },
-    {
-      "name": "using-superpowers",
-      "count": 1,
-      "lastUsed": 1788540570251,
       "installs": 0
     },
     {
