@@ -1,17 +1,23 @@
 {
   "username": "csw",
-  "generatedAt": 1788878699622,
+  "generatedAt": 1789067598929,
   "skills": [
     {
       "name": "debugging-dataflow-workflows",
-      "count": 15,
-      "lastUsed": 1788878700433,
+      "count": 17,
+      "lastUsed": 1788888092915,
       "installs": 0
     },
     {
       "name": "context7-mcp",
-      "count": 3,
-      "lastUsed": 1788550801051,
+      "count": 5,
+      "lastUsed": 1788888093754,
+      "installs": 0
+    },
+    {
+      "name": "show-me",
+      "count": 4,
+      "lastUsed": 1789067598726,
       "installs": 0
     },
     {
@@ -39,6 +45,12 @@
       "installs": 0
     },
     {
+      "name": "using-superpowers",
+      "count": 3,
+      "lastUsed": 1788880307155,
+      "installs": 0
+    },
+    {
       "name": "evo-microapp-onboarding",
       "count": 2,
       "lastUsed": 1786638100340,
@@ -57,9 +69,9 @@
       "installs": 0
     },
     {
-      "name": "using-superpowers",
+      "name": "test-driven-development",
       "count": 2,
-      "lastUsed": 1788878699419,
+      "lastUsed": 1788879429849,
       "installs": 0
     },
     {
@@ -111,6 +123,12 @@
       "installs": 0
     },
     {
+      "name": "ponytail",
+      "count": 1,
+      "lastUsed": 1788878732293,
+      "installs": 0
+    },
+    {
       "name": "superpowers:brainstorming",
       "count": 1,
       "lastUsed": 1786584353068,
@@ -123,9 +141,9 @@
       "installs": 0
     },
     {
-      "name": "test-driven-development",
+      "name": "systematic-debugging",
       "count": 1,
-      "lastUsed": 1787696635906,
+      "lastUsed": 1788881047166,
       "installs": 0
     },
     {
